@@ -14,3 +14,5 @@ Besides, the application is deployed on [Now](https://zeit.co/now): https://sock
 
 Some fixes:
 npm config set strict-ssl false
+
+Link: https://socket.io/get-started/chat
